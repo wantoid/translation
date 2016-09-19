@@ -1,0 +1,2 @@
+# translation
+Translations for Wantoid
