@@ -1,0 +1,2085 @@
+# Language  translations for workspace package.
+# Copyright (C) 2016 THE workspace'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the workspace package.
+# Automatically generated, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: workspace 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-19 14:43-0300\n"
+"PO-Revision-Date: 2016-01-05 18:27-0300\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"Language: _IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " New password"
+msgstr ""
+
+msgid " bytes). It should be less than "
+msgstr ""
+
+msgid " bytes. Available: "
+msgstr ""
+
+msgid " must have at least"
+msgstr ""
+
+msgid " must have at most"
+msgstr ""
+
+msgid " not found"
+msgstr ""
+
+msgid "\" not found for datatype "
+msgstr ""
+
+msgid "(HH:MM:SS)"
+msgstr ""
+
+msgid ". Use a single space to search for empty values"
+msgstr ""
+
+msgid "3D upload not supported yet, sorry."
+msgstr ""
+
+msgid ": welcome"
+msgstr ""
+
+msgid "<b>System message</b>"
+msgstr ""
+
+msgid ""
+"<h1 class=\"error\">Authentication failed!</h1>\n"
+"Please verify your name and password and try again. <a href='/"
+"forgotpassword/'>Did you forget your password?</a>"
+msgstr ""
+
+msgid "<h1>Add New Media</h1>"
+msgstr ""
+
+msgid "<h1>Forgot your password?</h1>"
+msgstr ""
+
+msgid "<h2>Profile</h2>"
+msgstr ""
+
+msgid ""
+"<html><body><h1>Blocked</h1>\n"
+"You are currently blocked, because you had too many failed logins.\n"
+"\t\t\t\t\tPlease wait for a while and try again later.</body></html>"
+msgstr ""
+
+msgid ""
+"<p>Error. Please check if you pasted correctly the link from the email you "
+"received.\n"
+"\t\t\t\tYou also have a maximum of two days to use that link. If this period "
+"has expired,\n"
+"\t\t\t\tplease request a new password.</p>"
+msgstr ""
+
+msgid ""
+"<p>Error. Please verify if you pasted the link from the email correctly.\n"
+"\t\t\t\tYou also have a limit of two days to change your password. If more "
+"time than this has transcurred,\n"
+"\t\t\t\tplease start the process over.</p>"
+msgstr ""
+
+msgid "<p>Error</p>"
+msgstr ""
+
+msgid ""
+"<p>Internal error. Site administrators are being notified and\n"
+"\t\ttheir daily coffee ration will be cut in half. While they try to fix "
+"this, go\n"
+"\t\tback to the <a href=\"/\">main page</a>.</p>"
+msgstr ""
+
+msgid "<p>Remember to comply with the terms of service.</p>"
+msgstr ""
+
+msgid ""
+"<p>We store all passwords in an encrypted form, for your safety.\n"
+"It is impossible to recover your original password, but you can get a brand\n"
+"new one by confirming your identity.</p>\n"
+"\n"
+"<p>Note: we can only recover passwords for local logins, not for third party "
+"authenticators\n"
+"such as Facebook, Google or others!</p>\n"
+"\n"
+"<p>Use the form below. Type your email and press send. Instructions of\n"
+"how to alter your password will be sent to your email and should arrive "
+"promptly.\n"
+"If they don't, please check the spam folder.</p>"
+msgstr ""
+
+msgid "A.D."
+msgstr "A.D."
+
+msgid "About"
+msgstr ""
+
+msgid "Accepted languages"
+msgstr ""
+
+msgid "Access"
+msgstr ""
+
+msgid "Access forbidden."
+msgstr ""
+
+msgid "Access level:"
+msgstr ""
+
+msgid "Account Suffix"
+msgstr ""
+
+msgid "Acquaintance"
+msgstr ""
+
+msgid "Active directory configuration"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add a new value for this field"
+msgstr ""
+
+msgid "Add account"
+msgstr ""
+
+msgid "Add comment"
+msgstr ""
+
+msgid "Add image"
+msgstr ""
+
+msgid "Add link"
+msgstr ""
+
+msgid "Add media files"
+msgstr ""
+
+msgid "Add new label"
+msgstr ""
+
+msgid "Add new translation"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "All things were imported successfully"
+msgstr ""
+
+msgid "Alternative country code"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "An error has occurred."
+msgstr ""
+
+msgid "Anno Domini"
+msgstr ""
+
+msgid "Anonymous"
+msgstr ""
+
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to delete your account? This operation cannot be "
+"undone.\n"
+"\tYou will lose PERMANENTLY ALL your information."
+msgstr ""
+
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Array expected in group render"
+msgstr ""
+
+msgid "Association"
+msgstr ""
+
+msgid "Association Type"
+msgstr ""
+
+msgid "Association not found"
+msgstr ""
+
+msgid "Association type"
+msgstr ""
+
+msgid "At least one value of this attribute is required"
+msgstr ""
+
+msgid "Attribute"
+msgstr "Atributo"
+
+msgid "Attribute "
+msgstr "Atributo"
+
+msgid "Attribute found, but without values. Probably a group attribute."
+msgstr ""
+
+msgid "Attributes for group "
+msgstr ""
+
+msgid "Audio conversion failed: ffmpeg not found"
+msgstr ""
+
+msgid "Audio conversion failed: original file lost"
+msgstr ""
+
+msgid "Audio upload not supported yet, sorry."
+msgstr ""
+
+msgid "Authentication failed."
+msgstr ""
+
+msgid "B.C."
+msgstr ""
+
+msgid "Base DN"
+msgstr ""
+
+msgid "Before Christ"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid ""
+"Both your domain controller and your web server need to be configured to "
+"allow LDAP over SSL"
+msgstr ""
+
+msgid "Browse all"
+msgstr ""
+
+msgid "Browse yours"
+msgstr ""
+
+msgid "Browsing"
+msgstr ""
+
+msgid "Browsing "
+msgstr ""
+
+msgid "Can login?"
+msgstr ""
+
+msgid "Can this item be bought?"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot accept this file type."
+msgstr ""
+
+msgid "Cannot access file or file is too big."
+msgstr ""
+
+msgid "Cannot authenticate. Please check username and password."
+msgstr ""
+
+msgid "Cannot change value of an immutable attribute."
+msgstr ""
+
+msgid "Cannot connect to LDAP server"
+msgstr ""
+
+msgid "Cannot convert audio to mp4"
+msgstr ""
+
+msgid "Cannot convert audio to ogg"
+msgstr ""
+
+msgid "Cannot convert video to mp4"
+msgstr ""
+
+msgid "Cannot convert video to ogg"
+msgstr ""
+
+msgid "Cannot convert video to webm"
+msgstr ""
+
+msgid "Cannot create media without a source or with an invalid url."
+msgstr ""
+
+msgid "Cannot create media without an original filename."
+msgstr ""
+
+msgid "Cannot create media without an owner."
+msgstr ""
+
+msgid "Cannot edit attribute for render:"
+msgstr ""
+
+msgid "Cannot have a search by id and label"
+msgstr ""
+
+msgid "Cannot have a search by id and label 2"
+msgstr ""
+
+msgid ""
+"Cannot insert external login. Perhaps it is being used in another account."
+msgstr ""
+
+msgid ""
+"Cannot save config for social sites. Please check if confighybrid.php has "
+"the proper permissions"
+msgstr ""
+
+msgid "Cannot send audio by base64."
+msgstr ""
+
+msgid "Cannot send video by base64."
+msgstr ""
+
+msgid "Cannot store file locally"
+msgstr ""
+
+msgid "Cannot store more than 300 kbs"
+msgstr ""
+
+msgid "Capital"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change now!"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Child"
+msgstr ""
+
+msgid "Clean cache"
+msgstr ""
+
+msgid "Clear file"
+msgstr ""
+
+msgid "Click and drag with mouse buttons or use keys to interact"
+msgstr ""
+
+msgid "Click here to continue if you are not redirected automatically."
+msgstr ""
+
+msgid "Click here to continue."
+msgstr ""
+
+msgid ""
+"Click on the map to fill address automatically. Please review it afterwards."
+msgstr ""
+
+msgid ""
+"Click the button to pick. You can also drag and drop a file into the grey "
+"area."
+msgstr ""
+
+msgid "Click to collapse"
+msgstr ""
+
+msgid "Click to edit"
+msgstr ""
+
+msgid "Click to expand"
+msgstr ""
+
+msgid "Click to pick a file or drag one here."
+msgstr ""
+
+msgid "Co-resident"
+msgstr ""
+
+msgid "Co-worker"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Colleague"
+msgstr ""
+
+msgid "Comment is too long."
+msgstr ""
+
+msgid "Comment is too short."
+msgstr ""
+
+msgid "Comment of"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Confirm new password"
+msgstr ""
+
+msgid ""
+"Connect accounts from social networks to get one-click logins and social "
+"posts"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Copyrighted, but copyright holder grants free use"
+msgstr ""
+
+msgid "Could not add email to queue"
+msgstr ""
+
+msgid "Could not create user. Please contact administrators."
+msgstr ""
+
+msgid "Could not open "
+msgstr ""
+
+msgid "Could not open camera, sorry."
+msgstr ""
+
+msgid "Could not recognize image format"
+msgstr ""
+
+msgid "Could not recognized image format."
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Country Details"
+msgstr ""
+
+msgid "Country code"
+msgstr ""
+
+msgid "Create new entry"
+msgstr ""
+
+msgid "Created thing: "
+msgstr ""
+
+msgid "Creative Commons BY-SA"
+msgstr ""
+
+msgid "Crush"
+msgstr ""
+
+msgid "Currency Code"
+msgstr ""
+
+msgid "Currency Name"
+msgstr ""
+
+msgid "Current accounts"
+msgstr ""
+
+msgid "DELETE MY ACCOUNT FOREVER"
+msgstr ""
+
+msgid "Data must be an array or instance of ArrayObject"
+msgstr ""
+
+msgid "Data type"
+msgstr ""
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date/time is not within allowed range."
+msgstr ""
+
+msgid "Define if attribute is a simple type or an association"
+msgstr ""
+
+msgid "Delete"
+msgstr "Eliminare"
+
+msgid "Delete account"
+msgstr "Eliminare account"
+
+msgid "Delete attribute"
+msgstr "Eliminare articolo"
+
+msgid "Delete item"
+msgstr ""
+
+msgid "Depth (meters)"
+msgstr ""
+
+msgid "Describe this item"
+msgstr ""
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Did you forget your password?"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid ""
+"Do you already have an account on one of these sites? Click on the logo to "
+"log in with it:"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Domain Controllers"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Duplicate does not exist"
+msgstr ""
+
+msgid ""
+"Duplicate values are not allowed. This value already exists in the database"
+msgstr ""
+
+msgid "ERROR: "
+msgstr ""
+
+msgid "Edit"
+msgstr "Edditare"
+
+msgid "Edit attribute "
+msgstr ""
+
+msgid "Edited by"
+msgstr ""
+
+msgid "Editor of"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email already registered"
+msgstr ""
+
+msgid "Email could not be sent."
+msgstr ""
+
+msgid "Email is Already Taken"
+msgstr ""
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Empty attribute name"
+msgstr ""
+
+msgid "Empty content"
+msgstr ""
+
+msgid "Empty url"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error accessing file (does it exist?) or file is too big."
+msgstr ""
+
+msgid "Error associating attribute to group"
+msgstr ""
+
+msgid "Error associating filedata in database."
+msgstr ""
+
+msgid "Error creating a new attribute"
+msgstr ""
+
+msgid "Error creating entry."
+msgstr ""
+
+msgid "Error creating filedata in database."
+msgstr ""
+
+msgid "Error deleting attribute"
+msgstr ""
+
+msgid "Error deleting."
+msgstr ""
+
+msgid "Error getting autocomplete"
+msgstr ""
+
+msgid "Error getting item"
+msgstr ""
+
+msgid "Error in create/update"
+msgstr ""
+
+msgid "Error in database"
+msgstr ""
+
+msgid "Error in database."
+msgstr ""
+
+msgid "Error in form. Please submit again or retry later."
+msgstr ""
+
+msgid "Error in query (advanced search)"
+msgstr ""
+
+msgid "Error in query (search)"
+msgstr ""
+
+msgid "Error in request. "
+msgstr ""
+
+msgid "Error in template compilation"
+msgstr ""
+
+msgid "Error inserting association in attribute"
+msgstr ""
+
+msgid "Error loading data"
+msgstr ""
+
+msgid "Error loading data:"
+msgstr ""
+
+msgid "Error loading item"
+msgstr ""
+
+msgid "Error removing a label"
+msgstr ""
+
+msgid "Error saving data"
+msgstr ""
+
+msgid "Error setting language for this attribute"
+msgstr ""
+
+msgid "Error setting thing attribute: no value"
+msgstr ""
+
+msgid "Error to set access mode"
+msgstr ""
+
+msgid "Error uploading file."
+msgstr ""
+
+msgid "Error validating"
+msgstr ""
+
+msgid "Error validating email."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Error: You are not authorized to access this page."
+msgstr ""
+
+msgid "Error: invalid user"
+msgstr ""
+
+msgid "Error: invalid user group"
+msgstr ""
+
+msgid "Error: invalid user group name"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed saving media."
+msgstr ""
+
+msgid "Failed upload, continuing."
+msgstr ""
+
+msgid "Failure"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File does not exist."
+msgstr ""
+
+msgid "File is not in UTF-8 encoding. Please check your export settings"
+msgstr ""
+
+msgid "File is too big. Maximum allowed size in MB:"
+msgstr ""
+
+msgid "File is too big: ("
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "File too big or upload failed."
+msgstr ""
+
+msgid "Filedata already exists"
+msgstr ""
+
+msgid "Filter by "
+msgstr ""
+
+msgid ""
+"Find your location by using the search field or just clicking on the map."
+msgstr ""
+
+msgid "Fips"
+msgstr ""
+
+msgid "Fiscal record"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Friend"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From a site"
+msgstr ""
+
+msgid "From camera"
+msgstr ""
+
+msgid "From your device"
+msgstr ""
+
+msgid "Fullname"
+msgstr ""
+
+msgid "GNU Free Documentation License (GFDL)"
+msgstr "GNU Free Documentation License (GFDL)"
+
+msgid "Gender"
+msgstr ""
+
+msgid "Gender of the person."
+msgstr ""
+
+msgid "Generic code"
+msgstr ""
+
+msgid "Geoname id"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "Has media"
+msgstr ""
+
+msgid "Height (meters)"
+msgstr ""
+
+msgid "Hello "
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "ISO-3166 2-letter country code, 2 characters"
+msgstr ""
+
+msgid "ISO-3166 3-letter country code, 3 characters"
+msgstr ""
+
+msgid "If empty will use default port 389"
+msgstr ""
+
+msgid "If you have not requested a new password, please ignore this message."
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image height is too big."
+msgstr ""
+
+msgid "Image height is too small."
+msgstr ""
+
+msgid "Image width is too big."
+msgstr ""
+
+msgid "Image width is too small."
+msgstr ""
+
+msgid ""
+"Images, docs from GoogleDocs, videos (such as YouTube, Vimeo, Dailymotion), "
+"audio (SoundCloud)"
+msgstr ""
+
+msgid "Images, docs, videos"
+msgstr ""
+
+msgid "Import error"
+msgstr ""
+
+msgid "In relationship"
+msgstr ""
+
+msgid "Inactive user"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Integer id of record in geonames database"
+msgstr ""
+
+msgid "Internal error. This was not supposed to happen."
+msgstr ""
+
+msgid "Internal error: thing must be a valid id."
+msgstr ""
+
+msgid "Invalid File"
+msgstr ""
+
+msgid "Invalid association data: "
+msgstr ""
+
+msgid "Invalid attribute"
+msgstr ""
+
+msgid "Invalid attribute name for: "
+msgstr ""
+
+msgid "Invalid attribute value"
+msgstr ""
+
+msgid "Invalid boolean value"
+msgstr ""
+
+msgid "Invalid choice value "
+msgstr ""
+
+msgid "Invalid choice value set: "
+msgstr ""
+
+msgid "Invalid column number"
+msgstr ""
+
+msgid "Invalid data type for "
+msgstr ""
+
+msgid "Invalid date value. We expect this format: YYYY-MM-DD"
+msgstr ""
+
+msgid "Invalid datetime"
+msgstr ""
+
+msgid "Invalid datetime local value"
+msgstr ""
+
+msgid "Invalid datetime value"
+msgstr ""
+
+msgid "Invalid domain value"
+msgstr ""
+
+msgid "Invalid duplicate thing"
+msgstr ""
+
+msgid "Invalid email value"
+msgstr ""
+
+msgid "Invalid email."
+msgstr ""
+
+msgid "Invalid file origin, continuing."
+msgstr ""
+
+msgid "Invalid filename"
+msgstr ""
+
+msgid "Invalid float value"
+msgstr ""
+
+msgid "Invalid grouping function"
+msgstr ""
+
+msgid "Invalid image format. Use: GIF, JPG or PNG."
+msgstr ""
+
+msgid "Invalid integer value"
+msgstr ""
+
+msgid "Invalid json value"
+msgstr ""
+
+msgid "Invalid language value"
+msgstr ""
+
+msgid "Invalid money value"
+msgstr ""
+
+msgid "Invalid owner thing."
+msgstr ""
+
+msgid "Invalid parameter value"
+msgstr ""
+
+msgid "Invalid parameters"
+msgstr ""
+
+msgid "Invalid password. Try again."
+msgstr ""
+
+msgid "Invalid price"
+msgstr ""
+
+msgid "Invalid source for file."
+msgstr ""
+
+msgid "Invalid target thing for comment"
+msgstr ""
+
+msgid "Invalid thing for association"
+msgstr ""
+
+msgid "Invalid thing for association in conversion: "
+msgstr ""
+
+msgid "Invalid thing for unassociation in conversion: "
+msgstr ""
+
+msgid "Invalid time value"
+msgstr ""
+
+msgid "Invalid timezone"
+msgstr ""
+
+msgid "Invalid uinteger value"
+msgstr ""
+
+msgid "Invalid url value"
+msgstr ""
+
+msgid "Invalid url, continuing."
+msgstr ""
+
+msgid "Invalid user"
+msgstr ""
+
+msgid "Invalid usmall value"
+msgstr ""
+
+msgid "Invalid uuid value"
+msgstr ""
+
+msgid "Invalid value: null"
+msgstr ""
+
+msgid "Invalid values"
+msgstr ""
+
+msgid "Invalid year value"
+msgstr ""
+
+msgid "Is Unique?"
+msgstr ""
+
+msgid "Is it buyable?"
+msgstr ""
+
+msgid "Is type of"
+msgstr ""
+
+msgid "Is unique"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Kin"
+msgstr ""
+
+msgid "LDAP - Lightweight Directory Access Protocol"
+msgstr ""
+
+msgid "LDAP Port"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "License for this file"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link for the file (URL)"
+msgstr ""
+
+msgid "Link for your page on "
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login with local user"
+msgstr ""
+
+msgid "Main thing label"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Mapfield is null or empty"
+msgstr ""
+
+msgid "Me"
+msgstr ""
+
+msgid "Media of"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message already exists"
+msgstr ""
+
+msgid "Message from"
+msgstr ""
+
+msgid "Message posted. Redirecting you to mail."
+msgstr ""
+
+msgid "Met in person"
+msgstr ""
+
+msgid "Min id has to be greater than max id"
+msgstr ""
+
+msgid "Missing comment data"
+msgstr ""
+
+msgid "Missing commentOf data"
+msgstr ""
+
+msgid "Missing file origin, continuing."
+msgstr ""
+
+msgid "Missing required attribute."
+msgstr ""
+
+msgid "Missing required field"
+msgstr ""
+
+msgid "Missing source: no filedata_origin. Was your file too big?"
+msgstr ""
+
+msgid "More information about the user"
+msgstr ""
+
+msgid "Multiple things at once not supported"
+msgstr ""
+
+msgid "Muse"
+msgstr ""
+
+msgid "My page"
+msgstr ""
+
+msgid "My wall"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name of attribute (without spaces)"
+msgstr ""
+
+msgid ""
+"Name of the social network you have an account (such as Facebook, Youtube)"
+msgstr ""
+
+msgid "Neighbor"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New attribute "
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "New value"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No association"
+msgstr ""
+
+msgid "No commentOf field."
+msgstr ""
+
+msgid "No conditions"
+msgstr ""
+
+msgid "No conditions generated."
+msgstr ""
+
+msgid "No duplicate names are allowed. A thing with this name already exists."
+msgstr ""
+
+msgid "No email"
+msgstr ""
+
+msgid "No external logins are currently configured."
+msgstr ""
+
+msgid "No external logins are currently connected to this account."
+msgstr ""
+
+msgid "No file."
+msgstr ""
+
+msgid "No grant in getItem for render:"
+msgstr ""
+
+msgid "No id or value provided for attribute to be deleted."
+msgstr ""
+
+msgid "No id provided for attribute to be deleted."
+msgstr ""
+
+msgid "No mail"
+msgstr ""
+
+msgid "No media yet."
+msgstr ""
+
+msgid "No permission"
+msgstr ""
+
+msgid "No permission to access attribute: "
+msgstr ""
+
+msgid "No remote or local file"
+msgstr ""
+
+msgid "No specialized class found"
+msgstr ""
+
+msgid "No tables found."
+msgstr ""
+
+msgid "No thing type"
+msgstr ""
+
+msgid "No value for association to be deleted."
+msgstr ""
+
+msgid "Normal Text"
+msgstr ""
+
+msgid "Not an integer"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Not more than 3 requests"
+msgstr ""
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "Nothing to show."
+msgstr ""
+
+msgid "Null thing type"
+msgstr ""
+
+msgid "Number of comments"
+msgstr ""
+
+msgid "Numeric country code"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Old password"
+msgstr ""
+
+msgid "Only hexadecimal are allowed"
+msgstr ""
+
+msgid "Only positive years are acceptable"
+msgstr ""
+
+msgid "Open in another window"
+msgstr ""
+
+msgid "Operator \""
+msgstr ""
+
+msgid "Operator not present in query"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Our traffic is too high now. Please try again later."
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Owned by this site"
+msgstr ""
+
+msgid "Page: "
+msgstr ""
+
+msgid "Parameters are all null"
+msgstr ""
+
+msgid "Parent"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Please change duplicated language"
+msgstr ""
+
+msgid "Please edit. Fill as many fields as you can."
+msgstr ""
+
+msgid "Please enable the permission to access your camera"
+msgstr ""
+
+msgid "Please fill all required fields (login and password at least)."
+msgstr ""
+
+msgid "Please go back to "
+msgstr ""
+
+msgid "Please pick a file for upload."
+msgstr ""
+
+msgid "Please provide at least one target or thing"
+msgstr ""
+
+msgid "Please review it afterwards."
+msgstr ""
+
+msgid "Please select an image file."
+msgstr ""
+
+msgid "Please select the appropriate file license"
+msgstr ""
+
+msgid "Please, select at least one of these fields"
+msgstr ""
+
+msgid "Population Size"
+msgstr ""
+
+msgid "Post a new message"
+msgstr ""
+
+msgid "Postal Code Format"
+msgstr ""
+
+msgid "Postal Code Regex"
+msgstr ""
+
+msgid "Posted"
+msgstr ""
+
+msgid "Posttime search may not use array."
+msgstr ""
+
+msgid "Posttime search with between needs exactly two values"
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+msgid "Prefix phone"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Price currency"
+msgstr ""
+
+msgid "Problems"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Public domain"
+msgstr ""
+
+msgid "Public relations"
+msgstr ""
+
+msgid "Queue delete failed"
+msgstr ""
+
+msgid "Quote"
+msgstr ""
+
+msgid "Registered on:"
+msgstr ""
+
+msgid "Relationship"
+msgstr ""
+
+msgid "Reload values of this field"
+msgstr ""
+
+msgid "Remember my password in this computer"
+msgstr ""
+
+msgid "Remove access"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Remove row"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Row is null or empty"
+msgstr ""
+
+msgid "Same as"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "School homepage"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for places"
+msgstr ""
+
+msgid "Searching for "
+msgstr ""
+
+msgid "Secondary thing label"
+msgstr ""
+
+msgid "Security error: cannot "
+msgstr ""
+
+msgid "Security error: cannot read"
+msgstr ""
+
+msgid "Security error: trying to modify attribute from a different thing"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Select association type"
+msgstr ""
+
+msgid "Select attribute type"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send me the instructions!"
+msgstr ""
+
+msgid "Send to"
+msgstr ""
+
+msgid "Sent to: "
+msgstr ""
+
+msgid "Server address"
+msgstr ""
+
+msgid "Shoot!"
+msgstr ""
+
+msgid "Short description"
+msgstr ""
+
+msgid "Show media"
+msgstr ""
+
+msgid "Sibling"
+msgstr ""
+
+msgid "Sign-in with"
+msgstr ""
+
+msgid "Simple type"
+msgstr ""
+
+msgid "Social network key"
+msgstr ""
+
+msgid "Social network link for your page there"
+msgstr ""
+
+msgid "Social network name"
+msgstr ""
+
+msgid "Social network scope"
+msgstr ""
+
+msgid "Social network secret"
+msgstr ""
+
+msgid "Social networks"
+msgstr ""
+
+msgid "Something went wrong."
+msgstr ""
+
+msgid "Sorry!"
+msgstr ""
+
+msgid "Sorry, but this type of file is not allowed."
+msgstr ""
+
+msgid "Sorry, but you cannot do this."
+msgstr ""
+
+msgid "Sorry, but you have to be <a href=\"/loginpage\">logged in</a>."
+msgstr ""
+
+msgid "Sorry, could not complete your search"
+msgstr ""
+
+msgid "Sorry, invalid data"
+msgstr ""
+
+msgid "Sorry, you do not have permission for this action."
+msgstr ""
+
+msgid "Sorry, you passed your quota. Please wait for a while."
+msgstr ""
+
+msgid ""
+"Specify the domain name or ip address. Example: \"dc01.mydomain.local\" or "
+"\"127.0.0.1\""
+msgstr ""
+
+msgid "Spouse"
+msgstr ""
+
+msgid "Start"
+msgstr "Inizio"
+
+msgid "Start date must be before end date."
+msgstr ""
+
+msgid "Start date should be before end date."
+msgstr ""
+
+msgid "Start typing to show list..."
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subquery for id/thingtype returned error: "
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Success. "
+msgstr ""
+
+msgid "Successfully deleted"
+msgstr ""
+
+msgid "Successfully exported"
+msgstr ""
+
+msgid "Successfully saved."
+msgstr ""
+
+msgid "Suggestion"
+msgstr ""
+
+msgid "Summary (short description)"
+msgstr ""
+
+msgid "Sweetheart"
+msgstr ""
+
+msgid ""
+"TLD is one of the domains at the highest level in the hierarchical Domain "
+"Name System of the Internet"
+msgstr ""
+
+msgid "Tag of"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Talk to us"
+msgstr ""
+
+msgid "Terms of service"
+msgstr ""
+
+msgid "Text style"
+msgstr ""
+
+msgid ""
+"Thank you for your message! We'll reply as soon as possible.\n"
+"\t\t\t\tPlease return to the <a href=\"/\">main page</a>."
+msgstr ""
+
+msgid "The base dn for your domain. Example: \"dc=corollarium,dc=com\""
+msgstr ""
+
+msgid "The domain name"
+msgstr ""
+
+msgid "The fiscal record document id."
+msgstr ""
+
+msgid ""
+"The full account suffix for your domain. Example: \"ou=developers,"
+"dc=corollarium,dc=com\" ou \"@corollarium.com\""
+msgstr ""
+
+msgid "The instructions of how to reset your password were sent to your email."
+msgstr ""
+
+msgid "The server address to this domain"
+msgstr ""
+
+msgid "There is no attribute for this group"
+msgstr ""
+
+msgid "Thing already exists"
+msgstr ""
+
+msgid "Thing doesn't exist! It may have been deleted."
+msgstr ""
+
+msgid "Thing parameter is not an id and no target found with this label: "
+msgstr ""
+
+msgid ""
+"Things do not match valid origin association values. Check your query or "
+"attribute selectors."
+msgstr ""
+
+msgid ""
+"Things do not match valid target association values. Check your query or "
+"attribute selectors."
+msgstr ""
+
+msgid "This file type is not accepted."
+msgstr ""
+
+msgid ""
+"This is used for external login, automatic posts on that site and apps. "
+"Leave empty if you do not have one"
+msgstr ""
+
+msgid "This is used for external login: scopes for this network. Usually none."
+msgstr ""
+
+msgid "This page is currently blocked for you, sorry."
+msgstr ""
+
+msgid "This user is blocked"
+msgstr ""
+
+msgid "Time zone"
+msgstr ""
+
+msgid "Time:"
+msgstr ""
+
+msgid "Timeline"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To get your new password, please click on the link below:"
+msgstr ""
+
+msgid "Top-level domain"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "Trying to set a UNIQUE attribute with multiple values."
+msgstr ""
+
+msgid "Trying to set an invalid value in an attribute restricted attribute."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type of attribute"
+msgstr ""
+
+msgid "Type the location"
+msgstr ""
+
+msgid "Type user name"
+msgstr ""
+
+msgid "Type your new password. Please use at least 5 characters."
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Undo delete"
+msgstr ""
+
+msgid "Unique attributes accept only one value"
+msgstr ""
+
+msgid "Unspecified"
+msgstr ""
+
+msgid "Update thing: "
+msgstr ""
+
+msgid "Upload would go over you quota."
+msgstr ""
+
+msgid "Uploaded file: "
+msgstr ""
+
+msgid "Use SSL"
+msgstr ""
+
+msgid "Use your account:"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User does not exist."
+msgstr ""
+
+msgid "User doesn't have a secret. "
+msgstr ""
+
+msgid "User group does not exist"
+msgstr ""
+
+msgid "User is blocked."
+msgstr ""
+
+msgid "User name"
+msgstr ""
+
+msgid "Username already exists"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid "Valid value!"
+msgstr ""
+
+msgid "Validating consistency failed: "
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value is less than minimum"
+msgstr ""
+
+msgid "Value is more than maximum"
+msgstr ""
+
+msgid "Value is required for usergroup"
+msgstr ""
+
+msgid "Video conversion failed: ffmpeg not found"
+msgstr ""
+
+msgid "Video conversion failed: original file lost"
+msgstr ""
+
+msgid "Video upload not supported yet, sorry."
+msgstr ""
+
+msgid "View or download"
+msgstr ""
+
+msgid "View or download file"
+msgstr ""
+
+msgid "Violating restrict rule for "
+msgstr ""
+
+msgid "Warning: "
+msgstr ""
+
+msgid "Warning: empty data user, for id: "
+msgstr ""
+
+msgid ""
+"We impose limits on the use of this site to avoid spammers and provide "
+"stable\n"
+"\t\t\t\t\tand good service to all users. Your account will be blocked for a "
+"few hours and\n"
+"\t\t\t\t\tthen you'll be able to use the site again."
+msgstr ""
+
+msgid "We would love to hear from you."
+msgstr ""
+
+msgid "Weight (kilograms)"
+msgstr ""
+
+msgid "Width (meters)"
+msgstr ""
+
+msgid "Workplace homepage"
+msgstr ""
+
+msgid "Write a private message"
+msgstr ""
+
+msgid "Write me"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid ""
+"You are already logged in. Click <a href=\"/logout/\">here</a> to logout."
+msgstr ""
+
+msgid ""
+"You are receiving this email because you lost your password and asked for a "
+"new one."
+msgstr ""
+
+msgid "You are receiving this email because you registered."
+msgstr ""
+
+msgid "You browser must support canvas."
+msgstr ""
+
+msgid "You cannot access this page"
+msgstr ""
+
+msgid "You do not have permission to change this attribute:"
+msgstr ""
+
+msgid "You do not have permission to delete this attribute:"
+msgstr ""
+
+msgid "You do not have permission to do this. Are you logged in?"
+msgstr ""
+
+msgid "You do not have permission to use a local file."
+msgstr ""
+
+msgid "You do not have permission to view this page"
+msgstr ""
+
+msgid "You do not have permission to write to this attribute:"
+msgstr ""
+
+msgid "You do not have permission to write/update to this attribute:"
+msgstr ""
+
+msgid "You do not have permissions to add media."
+msgstr ""
+
+msgid "You do not have permissions to set this."
+msgstr ""
+
+msgid "You have gone over your quota of use."
+msgstr ""
+
+msgid "You have no permission to edit this."
+msgstr ""
+
+msgid "You have to be logged in."
+msgstr ""
+
+msgid "You must login to see this page."
+msgstr ""
+
+msgid "You must pass a callback FN that produce the desired output"
+msgstr ""
+
+msgid "You must provide a comment."
+msgstr ""
+
+msgid "You must send it to somebody."
+msgstr ""
+
+msgid ""
+"Your account level is divinity. With great power there must also come great "
+"responsibility!"
+msgstr ""
+
+msgid "Your email (to get a reply):"
+msgstr ""
+
+msgid "Your email:"
+msgstr ""
+
+msgid "Your fullname"
+msgstr ""
+
+msgid ""
+"Your password was successfuly updated. Click here to go back to your profile."
+msgstr ""
+
+msgid "[Empty]"
+msgstr ""
+
+msgid "[No value]"
+msgstr ""
+
+msgid "application cleanup"
+msgstr ""
+
+msgid "attribute change"
+msgstr ""
+
+msgid "back to your page"
+msgstr ""
+
+msgid "by label and language"
+msgstr ""
+
+msgid "by thing"
+msgstr ""
+
+msgid "comment"
+msgstr ""
+
+msgid "comment reply"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "does not exist"
+msgstr ""
+
+msgid "filter..."
+msgstr ""
+
+msgid "follow"
+msgstr ""
+
+msgid "footer"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "found"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "header"
+msgstr ""
+
+msgid "in sq km"
+msgstr ""
+
+msgid "ldap register"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "logout"
+msgstr ""
+
+msgid "media creation"
+msgstr ""
+
+msgid "media update"
+msgstr ""
+
+msgid "no"
+msgstr "no"
+
+msgid "not found"
+msgstr ""
+
+msgid "payment"
+msgstr ""
+
+msgid "rate"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "relationship change"
+msgstr ""
+
+msgid "the main page"
+msgstr ""
+
+msgid "thing creation"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "type a map location here and press enter"
+msgstr ""
+
+msgid "update application emails_sent and emails_last_sent failed"
+msgstr ""
+
+msgid "values."
+msgstr ""
+
+msgid "yes"
+msgstr "si"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

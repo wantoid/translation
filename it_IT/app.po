@@ -1,0 +1,2535 @@
+# Language  translations for PACKAGE package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-19 14:43-0300\n"
+"PO-Revision-Date: 2016-09-19 12:14-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " administration rights?"
+msgstr ""
+
+msgid " and the minimum size is "
+msgstr ""
+
+msgid " can you help me? #wantoid"
+msgstr ""
+
+msgid " credits from "
+msgstr ""
+
+msgid " credits to "
+msgstr ""
+
+msgid " from the company?"
+msgstr ""
+
+msgid " hasn't made any Requests yet."
+msgstr ""
+
+msgid " hasn't made any proposals yet."
+msgstr ""
+
+msgid " is no longer an admin of "
+msgstr ""
+
+msgid " is now a member of "
+msgstr ""
+
+msgid " is now admin of "
+msgstr ""
+
+msgid " left "
+msgstr ""
+
+msgid " offers"
+msgstr ""
+
+msgid " proposals"
+msgstr ""
+
+msgid " rejected an invitation to be a member of "
+msgstr ""
+
+msgid " requests"
+msgstr ""
+
+msgid " requests that you proposed"
+msgstr ""
+
+msgid " was reopened."
+msgstr ""
+
+msgid ") is not an administrator anymore!"
+msgstr ""
+
+msgid ") is now an administrator!"
+msgstr ""
+
+msgid ") was successfully invited to this company! Click "
+msgstr ""
+
+msgid ") was successfully removed from this company!"
+msgstr ""
+
+msgid ""
+"<b>Disclaimer:</b> I understand that Wantoid.com is not liable or "
+"responsible in anyway\n"
+"\t\t\tfor the offers I may receive or those offering them."
+msgstr ""
+
+msgid "<h1>Change company's picture</h1>"
+msgstr ""
+
+msgid "<img src=\"/images/help/en/notifications/chrome.png\">"
+msgstr ""
+
+msgid ""
+"<img src=\"/images/help/en/notifications/example1.png\" alt=\"A proposal was "
+"added to your request\"/>"
+msgstr ""
+
+msgid ""
+"<img src=\"/images/help/en/notifications/example2.png\" alt=\"A comment was "
+"added to the same request\"/>"
+msgstr ""
+
+msgid "<img src=\"/images/help/en/notifications/firefox.png\">"
+msgstr ""
+
+msgid "<img src=\"/images/help/en/secret-help.png\" alt=\"Secret code\"/>"
+msgstr ""
+
+msgid "<p>Remember to comply with the terms of service.</p>"
+msgstr ""
+
+msgid "A band to play at my party"
+msgstr ""
+
+msgid "A cool car"
+msgstr ""
+
+msgid "A location for this place was not found"
+msgstr ""
+
+msgid "A new comment was added to"
+msgstr ""
+
+msgid "A new comment was added to your proposal on"
+msgstr ""
+
+msgid "A new proposal was added to"
+msgstr ""
+
+msgid "A private math teacher"
+msgstr ""
+
+msgid "A proposal cannot be created without an associated request."
+msgstr ""
+
+msgid "A tennis partner"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Accepted at least "
+msgstr ""
+
+msgid "Access our Facebook Page"
+msgstr ""
+
+msgid "Access our Twitter Profile"
+msgstr ""
+
+msgid "Access our YouTube Profile"
+msgstr ""
+
+msgid "Actions that should be posted automatically on social networks"
+msgstr ""
+
+msgid "Activate Your Account"
+msgstr ""
+
+msgid "Activate your account to get full access"
+msgstr ""
+
+msgid "Activate your account to get full access:"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Activity counter:"
+msgstr ""
+
+msgid "Add New Media"
+msgstr ""
+
+msgid "Add Request"
+msgstr ""
+
+msgid "Add a comment"
+msgstr ""
+
+msgid "Add a new place"
+msgstr ""
+
+msgid "Add a proposal"
+msgstr ""
+
+msgid "Add media"
+msgstr ""
+
+msgid "Add media files"
+msgstr ""
+
+msgid "Add new company"
+msgstr ""
+
+msgid "Add new place"
+msgstr ""
+
+msgid "Add one"
+msgstr ""
+
+msgid "Add pictures or videos and increase visibility and your success rate!"
+msgstr ""
+
+msgid "Admin dashboard"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Almost done! Please confirm your email to start using Wantoid"
+msgstr ""
+
+msgid "Already active"
+msgstr ""
+
+msgid "Already have an account? Log in"
+msgstr ""
+
+msgid "Already in a company"
+msgstr ""
+
+msgid ""
+"An account with this email is already registered. Please login first to add "
+"your social network."
+msgstr ""
+
+msgid "An activation email has been sent to "
+msgstr ""
+
+msgid "An activation link was sent to your new email address"
+msgstr ""
+
+msgid "An example where somebody added a proposal to one of your requests:"
+msgstr ""
+
+msgid "And another where somebody made a comment on the same request:"
+msgstr ""
+
+msgid "Anybody can make proposals"
+msgstr ""
+
+msgid "Approximate latitude"
+msgstr ""
+
+msgid "Approximate longitude"
+msgstr ""
+
+msgid "Are you sure you want to choose this proposal?"
+msgstr ""
+
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to delete your account? This operation cannot be "
+"undone."
+msgstr ""
+
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+msgid "Are you sure you want to grant "
+msgstr ""
+
+msgid "Are you sure you want to mark this proposal as Spam?"
+msgstr ""
+
+msgid "Are you sure you want to remove "
+msgstr ""
+
+msgid "Are you sure you want to unregister this user?"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid ""
+"As such, we cannot guarantee the delivery or quality. To avoid problems, "
+"follow some safety guidelines:"
+msgstr ""
+
+msgid "Ask for anything you want and get proposals."
+msgstr ""
+
+msgid "Attach files (photos, videos, etc)"
+msgstr ""
+
+msgid "Attach images, videos (only links) or PDFs."
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Badges appear on your profile page. Collect them all!"
+msgstr ""
+
+msgid "Badges are given for specific actions"
+msgstr ""
+
+msgid ""
+"Be notified about your requests and proposals immediately! You definitely "
+"want these!"
+msgstr ""
+
+msgid "Being delivered"
+msgstr ""
+
+msgid "Best price"
+msgstr ""
+
+msgid "Best reputation"
+msgstr ""
+
+msgid "Better controls for your requests and proposals"
+msgstr ""
+
+msgid "Bill to:"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Browser Notifications"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Buy credits"
+msgstr ""
+
+msgid "By"
+msgstr ""
+
+msgid ""
+"By submitting I agree to the <a href=\"/page/TermsOfService\">Terms of "
+"Service</a>\n"
+"\t\t\tand understand that Wantoid.com is not liable or responsible in "
+"anyway\n"
+"\t\t\tfor the offers I may receive or those offering them."
+msgstr ""
+
+msgid "Can I get a license of Wantoid for a specific segment?"
+msgstr ""
+
+msgid ""
+"Can it be delivered on the web? Check \"Anywhere\". Specific location? Check "
+"\"Exactly at\".\n"
+"\t\t\t\t\t\t\tWilling to pick it up? \"Near by\"."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel request"
+msgstr ""
+
+msgid "Cancel the account"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cannot be empty."
+msgstr ""
+
+msgid "Cannot be greater than"
+msgstr ""
+
+msgid "Cannot be less than one."
+msgstr ""
+
+msgid "Cannot delete"
+msgstr ""
+
+msgid "Cards"
+msgstr ""
+
+msgid "Change email"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Change the setting for <i>Share Location</i>."
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Chooser!"
+msgstr ""
+
+msgid "Chose a proposal"
+msgstr ""
+
+msgid "Chosen"
+msgstr ""
+
+msgid "Chosen."
+msgstr ""
+
+msgid "Clean cache"
+msgstr ""
+
+msgid "Clear cart"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Code I have to say"
+msgstr ""
+
+msgid "Code they have to say"
+msgstr ""
+
+msgid "Cold beer delivered now"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Companies"
+msgstr ""
+
+msgid "Companies too"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Company page"
+msgstr ""
+
+msgid "Company quality score"
+msgstr ""
+
+msgid "Company score"
+msgstr ""
+
+msgid "Company statistics"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "Congratulations, you got "
+msgstr ""
+
+msgid "Congratulations, you've successfully confirmed your email address!"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect with"
+msgstr ""
+
+msgid "Connected your account to Facebook"
+msgstr ""
+
+msgid "Connected your account to Google"
+msgstr ""
+
+msgid "Connected your account to Linkedin"
+msgstr ""
+
+msgid "Connected your account to Telegram"
+msgstr ""
+
+msgid "Connected your account to Twitter"
+msgstr ""
+
+msgid "Contact information"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Convert to admin"
+msgstr ""
+
+msgid "Could not get your position. "
+msgstr ""
+
+msgid "Create a company"
+msgstr ""
+
+msgid "Create an account using your email"
+msgstr ""
+
+msgid "Create an account!"
+msgstr ""
+
+msgid "Create company"
+msgstr ""
+
+msgid "Create new account!"
+msgstr ""
+
+msgid "Create new place"
+msgstr ""
+
+msgid "Created on"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Credits to buy"
+msgstr ""
+
+msgid "Customers Nationality"
+msgstr ""
+
+msgid "DELETE MY ACCOUNT FOREVER"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Date (earliest)"
+msgstr ""
+
+msgid "Date (latest)"
+msgstr ""
+
+msgid "Date cannot be further than two years in the future."
+msgstr ""
+
+msgid "Date limit"
+msgstr ""
+
+msgid "Date should be in the future. Time machines are not available yet."
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Default currency for your proposals"
+msgstr ""
+
+msgid "Default language"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete account"
+msgstr ""
+
+msgid "Delete company account"
+msgstr ""
+
+msgid "Delete failed."
+msgstr ""
+
+msgid "Delete the selected place"
+msgstr ""
+
+msgid "Delete your account"
+msgstr ""
+
+msgid "Deleted users"
+msgstr ""
+
+msgid "Delivery address"
+msgstr ""
+
+msgid "Delivery date"
+msgstr ""
+
+msgid ""
+"Describe exactly what you need and how, the more information the better!"
+msgstr ""
+
+msgid ""
+"Describe it in details. Well written proposals have much higher chances to "
+"be accepted."
+msgstr ""
+
+msgid "Didn't you register?"
+msgstr ""
+
+msgid "Do not invite the other party to your home or private place"
+msgstr ""
+
+msgid "Do not worry, you can get it again!"
+msgstr ""
+
+msgid ""
+"Do you have a company? Use Wantoid to increase your sales, to understand "
+"what your\n"
+"\t\t\tclients want and more."
+msgstr ""
+
+msgid ""
+"Do you need a product? A service? A friend? Something rare? Something you "
+"don't know where to \n"
+"\t\t\tfind? Post a request for what you want. Others will see it and make "
+"proposals to you."
+msgstr ""
+
+msgid "Do you need some help?"
+msgstr ""
+
+msgid "Do you really wish to delete this place?"
+msgstr ""
+
+msgid ""
+"Do you want to receive notification emails about your Requests and Proposals?"
+msgstr ""
+
+msgid "Do you want to reopen"
+msgstr ""
+
+msgid "Do you wish to receive notifications from Wantoid?"
+msgstr ""
+
+msgid "Don't close a deal if you are not sure that the other party is reliable"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit cart"
+msgstr ""
+
+msgid "Edit company"
+msgstr ""
+
+msgid "Edit company picture"
+msgstr ""
+
+msgid "Edit company profile"
+msgstr ""
+
+msgid "Edit places"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Edit profile picture"
+msgstr ""
+
+msgid "Edit the selected place"
+msgstr ""
+
+msgid "Edit this place"
+msgstr ""
+
+msgid "Edit this proposal"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email and Social Networks configuration"
+msgstr ""
+
+msgid "Email queue oldest"
+msgstr ""
+
+msgid "Emails successfully sent!"
+msgstr ""
+
+msgid "Error sending marketing email at Command_manager::sendEmail()."
+msgstr ""
+
+msgid "Error unregistering. Please contact us."
+msgstr ""
+
+msgid "Error unregistering. User was already activated."
+msgstr ""
+
+msgid "Error unsubscribing. Please contact us."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid ""
+"Even if you are a freelancer, creating a company profile will give you many "
+"perks."
+msgstr ""
+
+msgid "Exactly at"
+msgstr ""
+
+msgid "Exactly at:"
+msgstr ""
+
+msgid "Expected date"
+msgstr ""
+
+msgid "Expected price"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Expiring"
+msgstr ""
+
+msgid "Fast and simple"
+msgstr ""
+
+msgid "Fastest"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Final comment"
+msgstr ""
+
+msgid "Finish checkout"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "First proposal"
+msgstr ""
+
+msgid "First request"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Generate opportunities"
+msgstr ""
+
+msgid "Geolocation"
+msgstr ""
+
+msgid ""
+"Get everything in real time. Anyone can post a request and anyone can reply "
+"to that request."
+msgstr ""
+
+msgid "Get more points by using the site"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Global Wantoid"
+msgstr ""
+
+msgid "Go back"
+msgstr ""
+
+msgid "Go back to the dashboard"
+msgstr ""
+
+msgid "Go to the <i>Tools</i> menu, then select <i>Page Info</i>."
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Good!"
+msgstr ""
+
+msgid "Google Chrome, version 42+"
+msgstr ""
+
+msgid "Graphs"
+msgstr ""
+
+msgid "Great accepter"
+msgstr ""
+
+msgid "Great offerer"
+msgstr ""
+
+msgid "Great proposer"
+msgstr ""
+
+msgid "Great requester"
+msgstr ""
+
+msgid "Great winner"
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid ""
+"Here you can create a company for your account. You will be the company "
+"administrator and will be able to add new users later."
+msgstr ""
+
+msgid "Hi"
+msgstr ""
+
+msgid "Hi!"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "How Wantoid works"
+msgstr ""
+
+msgid ""
+"How do you want to be contacted by the other party? Phone numbers, messaging "
+"apps, anything. This is private and only shown to the other party."
+msgstr ""
+
+msgid ""
+"How do you want to be contacted? Phone numbers, messaging apps, anything"
+msgstr ""
+
+msgid "How does Wantoid work?"
+msgstr ""
+
+msgid "How many credits do you want to transfer to this user?"
+msgstr ""
+
+msgid "How much you will pay"
+msgstr ""
+
+msgid "How to use the secret code"
+msgstr ""
+
+msgid "How was this transaction? Any problems?"
+msgstr ""
+
+msgid "How your proposal was rated"
+msgstr ""
+
+msgid "Hrs/Qty"
+msgstr ""
+
+msgid "I have "
+msgstr ""
+
+msgid "I need "
+msgstr ""
+
+msgid "I need something else that is not here."
+msgstr ""
+
+msgid "I need this..."
+msgstr ""
+
+msgid "I want"
+msgstr ""
+
+msgid "I want something similar"
+msgstr ""
+
+msgid "I will pay around this much"
+msgstr ""
+
+msgid ""
+"If it applies, add information like price you expect to pay, shipping "
+"options, etc."
+msgstr ""
+
+msgid "If you already created an account using your email"
+msgstr ""
+
+msgid "If you didn't request an email change, just ignore this message."
+msgstr ""
+
+msgid ""
+"If you don't see this email in your inbox within a few minutes, look for it "
+"in your junk mail folder."
+msgstr ""
+
+msgid "If you find it there, please mark the email as \"Not Junk\"."
+msgstr ""
+
+msgid ""
+"If you need extra help, <a href=\"/ticket/edit\">please open a ticket</a>."
+msgstr ""
+
+msgid "If you need to make tests of your application, please use the"
+msgstr ""
+
+msgid "If you want to send the email only to customers from a specific country"
+msgstr ""
+
+msgid ""
+"In order to confirm that you want to change your email, please click on the "
+"link below."
+msgstr ""
+
+msgid "Instance status"
+msgstr ""
+
+msgid "Invalid activation key"
+msgstr ""
+
+msgid "Invalid activation key and/or email address."
+msgstr ""
+
+msgid "Invalid amount and cheap hacking method. Thanks for trying!"
+msgstr ""
+
+msgid "Invalid key. Please verify the link provided in your email."
+msgstr ""
+
+msgid "Invalid price value."
+msgstr ""
+
+msgid "Invalid proposal status value"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "Invalid request state transition."
+msgstr ""
+
+msgid "Invalid state transition."
+msgstr ""
+
+msgid "Invalid telephone value"
+msgstr ""
+
+msgid "Invalid user"
+msgstr ""
+
+msgid "Invalid user group."
+msgstr ""
+
+msgid "Invalid user."
+msgstr ""
+
+msgid "Invalid verifier. Please verify the link provided in your email."
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Invite a new member"
+msgstr ""
+
+msgid "Invoice number"
+msgstr ""
+
+msgid "Is there a sandbox that I can use for tests?"
+msgstr ""
+
+msgid ""
+"It's a six-digit number that only the two of you have access to that ensures"
+msgstr ""
+
+msgid "It's also free!"
+msgstr ""
+
+msgid "It's completely optional, but very easy to use!"
+msgstr ""
+
+msgid "It's free!"
+msgstr ""
+
+msgid "It's quick! Just fill the basic information"
+msgstr ""
+
+msgid "It's real time! You can get proposals within seconds"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Just click here."
+msgstr ""
+
+msgid ""
+"Keep in touch with the people that can help you. Help others when they need. "
+"It's all \n"
+"\t\t\there, no need to use other websites or apps."
+msgstr ""
+
+msgid "Keywords for your request"
+msgstr ""
+
+msgid "Language you prefer to use"
+msgstr ""
+
+msgid "Learn more!"
+msgstr ""
+
+msgid "Leave company"
+msgstr ""
+
+msgid "Link for the photo or video"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Local sites:"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Login to complete the request creation."
+msgstr ""
+
+msgid "Login to complete your proposal."
+msgstr ""
+
+msgid "Login with"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Looking for your country? Check "
+msgstr ""
+
+msgid "Lost"
+msgstr ""
+
+msgid "Made a proposal"
+msgstr ""
+
+msgid "Made a request"
+msgstr ""
+
+msgid "Made a request with more than "
+msgstr ""
+
+msgid "Make a request, it's free!"
+msgstr ""
+
+msgid "Manage media files"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Mark as spam"
+msgstr ""
+
+msgid "Maximum date this will be available"
+msgstr ""
+
+msgid "Mega accepter"
+msgstr ""
+
+msgid "Mega offerer"
+msgstr ""
+
+msgid "Mega proposer"
+msgstr ""
+
+msgid "Mega requester"
+msgstr ""
+
+msgid "Mega winner"
+msgstr ""
+
+msgid "Member since"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Missing location for"
+msgstr ""
+
+msgid "Missing place for"
+msgstr ""
+
+msgid "Missing required field"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Mozilla Firefox, v44+ (desktop) and v48+ (mobile)"
+msgstr ""
+
+msgid "Near"
+msgstr ""
+
+msgid "Near by"
+msgstr ""
+
+msgid "Near me"
+msgstr ""
+
+msgid "Neutral"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New email"
+msgstr ""
+
+msgid "New here?"
+msgstr ""
+
+msgid "New to Wantoid? "
+msgstr ""
+
+msgid ""
+"New users start with 0%, and as they get good rates this number increases to "
+"get near 100%."
+msgstr ""
+
+msgid "Nice accepter"
+msgstr ""
+
+msgid "Nice offerer"
+msgstr ""
+
+msgid "Nice proposer"
+msgstr ""
+
+msgid "Nice requester"
+msgstr ""
+
+msgid "Nice winner"
+msgstr ""
+
+msgid "No external logins are currently connected to this account."
+msgstr ""
+
+msgid "No file"
+msgstr ""
+
+msgid "No places yet, add one!"
+msgstr ""
+
+msgid "No proposals found. Check your filters!"
+msgstr ""
+
+msgid ""
+"No proposals found. Check your filters! Or maybe you are looking for "
+"proposals "
+msgstr ""
+
+msgid "No requests found. Check your filters!"
+msgstr ""
+
+msgid ""
+"No requests found. Check your filters! Or maybe you are looking for requests "
+msgstr ""
+
+msgid "No tag selected"
+msgstr ""
+
+msgid "No valid request data present"
+msgstr ""
+
+msgid "Not enough credits!"
+msgstr ""
+
+msgid "Nothing found for"
+msgstr ""
+
+msgid "Nothing found! Please try another query"
+msgstr ""
+
+msgid "Nothing yet"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Now you can always get what you want."
+msgstr ""
+
+msgid "Number of events on the Activity panel"
+msgstr ""
+
+msgid "Offer"
+msgstr ""
+
+msgid "Offers"
+msgstr ""
+
+msgid "Old and closed"
+msgstr ""
+
+msgid "Once the request is fulfilled the requester will rate it"
+msgstr ""
+
+msgid "Only admin can remove members."
+msgstr ""
+
+msgid "Only digits allowed."
+msgstr ""
+
+msgid "Only general area shown to preserve privacy"
+msgstr ""
+
+msgid "Only the requester can change the status of the proposal."
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open again."
+msgstr ""
+
+msgid "Open requests / proposals"
+msgstr ""
+
+msgid "Open requests with proposals"
+msgstr ""
+
+msgid "Open this email and confirm your registration."
+msgstr ""
+
+msgid "Optional"
+msgstr ""
+
+msgid ""
+"Optional, add a price if relevant. If it's free use a 0, and if there's no "
+"price just leave it blank."
+msgstr ""
+
+msgid "Optional, do you wish to reply to the requester review?"
+msgstr ""
+
+msgid "Original email of deleted User"
+msgstr ""
+
+msgid "Overwhelming request"
+msgstr ""
+
+msgid "Pay on delivery (and get paid on delivery) or use an escrow service"
+msgstr ""
+
+msgid "Pick a neighborhood or city (typing its name will show a list)"
+msgstr ""
+
+msgid ""
+"Pick the social networks you want to post your new Requests and Proposals to"
+msgstr ""
+
+msgid "Place"
+msgstr ""
+
+msgid "Place doesn't exist, it may have been deleted."
+msgstr ""
+
+msgid ""
+"Place name, only for your own internal control. Try \"Home\" or \"Work\""
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+msgid "Places where this offer is happening"
+msgstr ""
+
+msgid "Please fill your data."
+msgstr ""
+
+msgid "Please give permission if necessary!"
+msgstr ""
+
+msgid "Please pick a neighborhood or city."
+msgstr ""
+
+msgid "Please pick a subject."
+msgstr ""
+
+msgid "Please qualify this proposal"
+msgstr ""
+
+msgid "Please review it."
+msgstr ""
+
+msgid "Please type something to search"
+msgstr ""
+
+msgid "Please write your offer."
+msgstr ""
+
+msgid ""
+"Please write your request. Remember, the more you fill, the better proposals "
+"will be."
+msgstr ""
+
+msgid "Please, click on \"Allow\" to sign the notifications!"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid ""
+"Points <i class=\"fa fa-shield\"></i> are gained whenever you make an action:"
+msgstr ""
+
+msgid "Popular request"
+msgstr ""
+
+msgid "Post my new Proposals"
+msgstr ""
+
+msgid "Post my new Requests"
+msgstr ""
+
+msgid "Post your proposal"
+msgstr ""
+
+msgid "Posted"
+msgstr ""
+
+msgid "Posted a request to a social network"
+msgstr ""
+
+msgid "Posted at least "
+msgstr ""
+
+msgid "Posted on social networks that you are a Wantoider"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Price. If it's free use 0"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Proposal"
+msgstr ""
+
+msgid "Proposal ratings"
+msgstr ""
+
+msgid "Proposal ratings:"
+msgstr ""
+
+msgid "Proposal spammers"
+msgstr ""
+
+msgid "Proposal status"
+msgstr ""
+
+msgid "Proposals"
+msgstr ""
+
+msgid ""
+"Proposals are only counted for this score if they are accepted by the "
+"requester and rated."
+msgstr ""
+
+msgid ""
+"Proposals that are not chosen do not count, neither positively or negatively."
+msgstr ""
+
+msgid "Proposals you made"
+msgstr ""
+
+msgid "Proposer contact info:"
+msgstr ""
+
+msgid "Public offer"
+msgstr ""
+
+msgid "Push notifications"
+msgstr ""
+
+msgid "Qualify!"
+msgstr ""
+
+msgid "Quality score"
+msgstr ""
+
+msgid ""
+"Quality score <i class=\"fa fa-diamond\"></i> checks how good someone is at "
+"fulfilling proposals."
+msgstr ""
+
+msgid "Quality score and points"
+msgstr ""
+
+msgid "Quality score reflects how well proposals are fulfilled"
+msgstr ""
+
+msgid "Quotes for 10 PCs for my office"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Rate/Price"
+msgstr ""
+
+msgid "Receive emails"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Rejected."
+msgstr ""
+
+msgid "Related requests"
+msgstr ""
+
+msgid "Relevance"
+msgstr ""
+
+msgid "Remember to comply with the terms of service."
+msgstr ""
+
+msgid "Remove access"
+msgstr ""
+
+msgid "Remove admin"
+msgstr ""
+
+msgid "Remove member"
+msgstr ""
+
+msgid "Reopen"
+msgstr ""
+
+msgid "Reopen request!"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Reply from proposer"
+msgstr ""
+
+msgid "Reply to requester review"
+msgstr ""
+
+msgid "Reply!"
+msgstr ""
+
+msgid "Report abuse"
+msgstr ""
+
+msgid "Report as spam"
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Request spammers"
+msgstr ""
+
+msgid "Request status"
+msgstr ""
+
+msgid "Requester contact info:"
+msgstr ""
+
+msgid "Requesters see you are a serious proposer"
+msgstr ""
+
+msgid "Requests"
+msgstr ""
+
+msgid "Requests / proposals"
+msgstr ""
+
+msgid "Requests and Proposals"
+msgstr ""
+
+msgid "Requests near this place"
+msgstr ""
+
+msgid "Requests you made"
+msgstr ""
+
+msgid "Restrict to visible area"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Safety"
+msgstr ""
+
+msgid "Sandbox"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save and continue"
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Secret Code"
+msgstr ""
+
+msgid "Secret code"
+msgstr ""
+
+msgid "See all"
+msgstr ""
+
+msgid "See all requests"
+msgstr ""
+
+msgid "See all your badges"
+msgstr ""
+
+msgid "See map"
+msgstr ""
+
+msgid "See other requests nearby"
+msgstr ""
+
+msgid "See results in a map"
+msgstr ""
+
+msgid "See results without map."
+msgstr ""
+
+msgid "See what's happening"
+msgstr ""
+
+msgid "Select the <i>Permissions tab</i>."
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send email again"
+msgstr ""
+
+msgid "Send emails"
+msgstr ""
+
+msgid "Send marketing email"
+msgstr ""
+
+msgid "Share on:"
+msgstr ""
+
+msgid "Shared with the other party when you close a deal"
+msgstr ""
+
+msgid "Showing"
+msgstr ""
+
+msgid "Sign up"
+msgstr ""
+
+msgid "Sign-in with"
+msgstr ""
+
+msgid "Site settings"
+msgstr ""
+
+msgid "Social Networks"
+msgstr ""
+
+msgid "Social networks"
+msgstr ""
+
+msgid "Social: Facebook"
+msgstr ""
+
+msgid "Social: Google"
+msgstr ""
+
+msgid "Social: Linkedin"
+msgstr ""
+
+msgid "Social: Telegram"
+msgstr ""
+
+msgid "Social: Twitter"
+msgstr ""
+
+msgid "Social: posted Wantoider"
+msgstr ""
+
+msgid "Social: posted request"
+msgstr ""
+
+msgid ""
+"Some actions count as negative points, such as having posts classified as "
+"SPAM."
+msgstr ""
+
+msgid ""
+"Some markers may be slightly distant from their actual location to preserve "
+"privacy"
+msgstr ""
+
+msgid "Someone to paint my house"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Something went wrong, please reload the page and try again."
+msgstr ""
+
+msgid "Something went wrong."
+msgstr ""
+
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+msgid "Somewhere for a great date"
+msgstr ""
+
+msgid "Sorry, you lost "
+msgstr ""
+
+msgid "Sort by:"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Start now (it's free)"
+msgstr ""
+
+msgid "Start now for free"
+msgstr ""
+
+msgid "Start now!"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stop notifying my device"
+msgstr ""
+
+msgid "Sub Total"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Subscribe to notifications"
+msgstr ""
+
+msgid "Success, created place"
+msgstr ""
+
+msgid "Successfully deleted"
+msgstr ""
+
+msgid "Successfully marked as SPAM."
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid ""
+"Tags with only special characters or numbers are not allowed! The maximum "
+"size for a tags is "
+msgstr ""
+
+msgid "Talk to us"
+msgstr ""
+
+msgid "Telephone"
+msgstr ""
+
+msgid "Terms of service"
+msgstr ""
+
+msgid "Test it! It costs nothing. In a few seconds you are online."
+msgstr ""
+
+msgid "That request is not open anymore"
+msgstr ""
+
+msgid "That's it!"
+msgstr ""
+
+msgid "The activation key has expired."
+msgstr ""
+
+msgid "The country you live in"
+msgstr ""
+
+msgid "The data found for this location is probably not 100% accurate."
+msgstr ""
+
+msgid "The default currency for your proposals"
+msgstr ""
+
+msgid "The invitation was accepted."
+msgstr ""
+
+msgid "The invitation was declined."
+msgstr ""
+
+msgid "The languages of Subject and Body don't match"
+msgstr ""
+
+msgid "The main site has controls to catch spammers"
+msgstr ""
+
+msgid "The more you have, the more reliable you will be in the site"
+msgstr ""
+
+msgid "The owner of a request cannot create a proposal for the same request."
+msgstr ""
+
+msgid "The proposer cannot be a member of the same company as the requester"
+msgstr ""
+
+msgid ""
+"The proposer says the last three digits, which can be checked by the "
+"requester."
+msgstr ""
+
+msgid "The requester picks the best proposal"
+msgstr ""
+
+msgid ""
+"The requester says the first three digits, which can be checked by the "
+"proposer."
+msgstr ""
+
+msgid "The sandbox has the exact same funcionality of the main site."
+msgstr ""
+
+msgid ""
+"The secret code is shown when you choose a proposal, for both the proposer "
+"and the requester."
+msgstr ""
+
+msgid "There are many advantages in registering your company in Wantoid."
+msgstr ""
+
+msgid "There are no proposals for this request."
+msgstr ""
+
+msgid "There must be at least one company admin."
+msgstr ""
+
+msgid ""
+"They are separate accounts though, you have to register your users there "
+"again first."
+msgstr ""
+
+msgid "This comment does not exist! It may have been deleted."
+msgstr ""
+
+msgid "This email is already being used"
+msgstr ""
+
+msgid ""
+"This increase is gradual, reflecting the number of proposals fulfilled as "
+"well as the rate of good reviews."
+msgstr ""
+
+msgid "This is already your email address"
+msgstr ""
+
+msgid "This is an automatic email, please do not reply."
+msgstr ""
+
+msgid ""
+"This place will be kept private. A map with the nearby region will be "
+"publicly shown,\n"
+"\t\t\t\t\tand when you choose a proposal the exactly address will be shared "
+"with the proposer."
+msgstr ""
+
+msgid "This proposal cannot be deleted."
+msgstr ""
+
+msgid "This proposal does not exist! It may have been deleted."
+msgstr ""
+
+msgid "This request has not expired yet."
+msgstr ""
+
+msgid "This user account was not activated."
+msgstr ""
+
+msgid "This user was already invited"
+msgstr ""
+
+msgid "This will be private"
+msgstr ""
+
+msgid "This will be public"
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid ""
+"To activate it follow the instructions below, depending on your browser:"
+msgstr ""
+
+msgid "To activate them, you've go to enter"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Trending tags"
+msgstr ""
+
+msgid "Try to select some other point in the map."
+msgstr ""
+
+msgid "Trying to mark a non associated proposal as chosen by this request."
+msgstr ""
+
+msgid "Trying to set a LOST proposal."
+msgstr ""
+
+msgid "Trying to set a chosen proposal while another is already present."
+msgstr ""
+
+msgid "Trying to set a request as chosen without a chosen proposal present."
+msgstr ""
+
+msgid "Type of location"
+msgstr ""
+
+msgid ""
+"Type your new email. An activation link will be emailed to that email, and "
+"changes will\n"
+"\t\t\t\t\t\tonly be performed when you access that link. If you do not get "
+"that email, check your spam\n"
+"\t\t\t\t\t\tfolder."
+msgstr ""
+
+msgid ""
+"Type your new password. Changes will only be performed if you provide the "
+"correct old password."
+msgstr ""
+
+msgid "USA"
+msgstr ""
+
+msgid "Unfortunately there is not data for this exact location."
+msgstr ""
+
+msgid "Unrated"
+msgstr ""
+
+msgid "Unsubscribe from our emails"
+msgstr ""
+
+msgid "Until"
+msgstr ""
+
+msgid "Update your email address"
+msgstr ""
+
+msgid "Use keywords for your request. Separate keywords with enter or tab."
+msgstr ""
+
+msgid "Use the secret code to identify the other party"
+msgstr ""
+
+msgid ""
+"Use your social network accounts to login. Fast, secure and just one click!"
+msgstr ""
+
+msgid "Used smartphone with at least 1.5GB of RAM"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User Panel"
+msgstr ""
+
+msgid "User belongs to another company"
+msgstr ""
+
+msgid "User blacklist"
+msgstr ""
+
+msgid "User must be active"
+msgstr ""
+
+msgid "User not available"
+msgstr ""
+
+msgid "User panel"
+msgstr ""
+
+msgid "User quality score"
+msgstr ""
+
+msgid "User score percentage"
+msgstr ""
+
+msgid "User should already have registered an account in Wantoid."
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Users logged (30 days)"
+msgstr ""
+
+msgid "Validate your company and get extra confidence"
+msgstr ""
+
+msgid "Value is not a valid option"
+msgstr ""
+
+msgid "View older comments"
+msgstr ""
+
+msgid "Wanted when?"
+msgstr ""
+
+msgid ""
+"Wantoid helps people to offer their services or products to people who need "
+"them.\n"
+"\t\t\tWe want to generate jobs, support freelancers, increase sales for "
+"companies."
+msgstr ""
+
+msgid "Wantoid is not the provider of any products or services in the site."
+msgstr ""
+
+msgid ""
+"Wantoid is simple. It connects people who want something to people who have "
+"it or can do it.\n"
+"\t\tUnlike most sites around, here we focus on those <em>who want</em>. Yes, "
+"you."
+msgstr ""
+
+msgid "We are beta testing, you can help us to improve this site"
+msgstr ""
+
+msgid "We help people to help others"
+msgstr ""
+
+msgid ""
+"We strongly suggest the administration account for a company to be used only "
+"for administrative purposes, not posting requests and proposal, and to be "
+"created with a general email not tied to a single person."
+msgstr ""
+
+msgid "We would love to hear from you."
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Welcome to"
+msgstr ""
+
+msgid "Welcome to Wantoid!"
+msgstr ""
+
+msgid "What are companies? How can I create one, even being a freelancer?"
+msgstr ""
+
+msgid "What do you need? Be short and clear!"
+msgstr ""
+
+msgid "What do you want right now? Get it at"
+msgstr ""
+
+msgid "What do you want?"
+msgstr ""
+
+msgid "What does your company do?"
+msgstr ""
+
+msgid "What is a sheriff? How does it pay and how can I become one?"
+msgstr ""
+
+msgid "What is going on near this place"
+msgstr ""
+
+msgid "What is the secret code?"
+msgstr ""
+
+msgid "What you are getting"
+msgstr ""
+
+msgid "What you need"
+msgstr ""
+
+msgid "When do you want it? Do you need it at a specific time?"
+msgstr ""
+
+msgid "Why create a company"
+msgstr ""
+
+msgid "Within the next"
+msgstr ""
+
+msgid "Won at least "
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You added a new proposal to"
+msgstr ""
+
+msgid "You already are in one company, you cannot create nor edit another"
+msgstr ""
+
+msgid "You already have a proposal under consideration"
+msgstr ""
+
+msgid ""
+"You and the requester can talk with comments about any questions or doubts"
+msgstr ""
+
+msgid ""
+"You are already logged in. Click <a href=\"/logout/\">here</a> to logout."
+msgstr ""
+
+msgid "You are currently not logged."
+msgstr ""
+
+msgid ""
+"You are losing great opportunities by disabling the notifications, please "
+"consider"
+msgstr ""
+
+msgid ""
+"You are missing great opportunities by blocking our notifications, please "
+"consider"
+msgstr ""
+
+msgid "You are no longer an admin of"
+msgstr ""
+
+msgid "You are now a member of"
+msgstr ""
+
+msgid "You are put into contact directly"
+msgstr ""
+
+msgid "You are the administrator."
+msgstr ""
+
+msgid "You are trying to add an user that's already in another company"
+msgstr ""
+
+msgid "You can always"
+msgstr ""
+
+msgid "You can create at most 5 tags."
+msgstr ""
+
+msgid ""
+"You can easily find requests near you by allowing us to see your current "
+"location."
+msgstr ""
+
+msgid "You can fulfill someone's request: create a proposal."
+msgstr ""
+
+msgid ""
+"You can get realtime notifications of any important events in your items, "
+msgstr ""
+
+msgid ""
+"You can have many different users posting under your company but using "
+"separate accounts"
+msgstr ""
+
+msgid "You can only alter an OPEN proposal."
+msgstr ""
+
+msgid "You can reopen it!"
+msgstr ""
+
+msgid "You can request anything"
+msgstr ""
+
+msgid "You can't create an offer for a place that is not yours."
+msgstr ""
+
+msgid "You canceled"
+msgstr ""
+
+msgid "You cannot activate an account while logged"
+msgstr ""
+
+msgid "You cannot create a standalone comment."
+msgstr ""
+
+msgid "You cannot edit requests that are not open or have open proposals"
+msgstr ""
+
+msgid "You cannot give a reply comment for this proposal."
+msgstr ""
+
+msgid "You cannot provide a reply to a proposal that was not finished."
+msgstr ""
+
+msgid "You cannot qualify this proposal."
+msgstr ""
+
+msgid ""
+"You cannot rate or give a final comment to an proposal without finishing it."
+msgstr ""
+
+msgid ""
+"You cannot set a request as finished if the chosen proposal was not finished "
+"first."
+msgstr ""
+
+msgid "You choose the best one"
+msgstr ""
+
+msgid "You chose a proposal for"
+msgstr ""
+
+msgid "You created a new company"
+msgstr ""
+
+msgid "You created a new request"
+msgstr ""
+
+msgid "You deserve them!"
+msgstr ""
+
+msgid "You do not manage this place"
+msgstr ""
+
+msgid "You don't have a registered Social Network account yet."
+msgstr ""
+
+msgid "You finished"
+msgstr ""
+
+msgid ""
+"You gain <a href=\"/help/scorePoints\">points for your reputation</a> "
+"whenever you make actions"
+msgstr ""
+
+msgid "You had a proposal marked as SPAM. You cannot post again"
+msgstr ""
+
+msgid "You have just left"
+msgstr ""
+
+msgid "You just need to click on the little lock on the upper left corner"
+msgstr ""
+
+msgid "You must be logged in"
+msgstr ""
+
+msgid "You qualified"
+msgstr ""
+
+msgid "You received "
+msgstr ""
+
+msgid "You rejected a proposal for"
+msgstr ""
+
+msgid "You reopened"
+msgstr ""
+
+msgid "You replied to the Requester\\'s qualification at"
+msgstr ""
+
+msgid "You request was reopened! It's now valid until "
+msgstr ""
+
+msgid "You selected an invalid place"
+msgstr ""
+
+msgid "You successfully <strong>subscribed</strong> to the notifications!"
+msgstr ""
+
+msgid "You successfully <strong>unsubscribed</strong> from the notifications!"
+msgstr ""
+
+msgid "You transferred "
+msgstr ""
+
+msgid "You want something: <a href=\"/request/edit\">request it"
+msgstr ""
+
+msgid "You were invited to a company"
+msgstr ""
+
+msgid "You were invited to be a member of"
+msgstr ""
+
+msgid "You will lose PERMANENTLY ALL your information."
+msgstr ""
+
+msgid ""
+"You'll be notified through email if somebody adds a proposal or comment to "
+"your request."
+msgstr ""
+
+msgid ""
+"You'll be notified through email if the Requester answers your proposal."
+msgstr ""
+
+msgid "You're almost done, just one step to start using our site."
+msgstr ""
+
+msgid ""
+"Your account was not activated yet.\n"
+"\t\t\tPlease check your email (including the SPAM folder) for the message "
+"with the activation link."
+msgstr ""
+
+msgid "Your account was unregistered"
+msgstr ""
+
+msgid "Your birthday"
+msgstr ""
+
+msgid "Your current credits"
+msgstr ""
+
+msgid "Your email (to get a reply):"
+msgstr ""
+
+msgid "Your email was successfuly updated. Click"
+msgstr ""
+
+msgid "Your email was unsubscribed"
+msgstr ""
+
+msgid "Your email:"
+msgstr ""
+
+msgid "Your full name or nickname"
+msgstr ""
+
+msgid "Your gender"
+msgstr ""
+
+msgid "Your negotiation with"
+msgstr ""
+
+msgid "Your new email is"
+msgstr ""
+
+msgid "Your open proposals"
+msgstr ""
+
+msgid "Your open requests"
+msgstr ""
+
+msgid "Your points"
+msgstr ""
+
+msgid "Your proposal for"
+msgstr ""
+
+msgid "Your proposal was qualified at"
+msgstr ""
+
+msgid "Your qualification received a reply by the Proposer at"
+msgstr ""
+
+msgid "Your request"
+msgstr ""
+
+msgid "Your settings"
+msgstr ""
+
+msgid "[everywhere]"
+msgstr ""
+
+msgid "and change the option <b>Notifications</b> to <b>Allowed by you</b>,"
+msgstr ""
+
+msgid "and change the option <b>Receive Notifications</b> to <b>Allow</b>,"
+msgstr ""
+
+msgid "and follow the instructions below, depending on your browser:"
+msgstr ""
+
+msgid ""
+"and repeated tests may easily lock you and make you lose reputation points, "
+"or even be banned."
+msgstr ""
+
+msgid "as"
+msgstr ""
+
+msgid "as in the picture below:"
+msgstr ""
+
+msgid "badges"
+msgstr ""
+
+msgid "change your email settings"
+msgstr ""
+
+msgid "chosen proposals"
+msgstr ""
+
+msgid "chosen requests"
+msgstr ""
+
+msgid "continue the negotiation!"
+msgstr ""
+
+msgid "delivery"
+msgstr ""
+
+msgid "e.g. \"Work\" or \"Home\""
+msgstr ""
+
+msgid "enabling them!"
+msgstr ""
+
+msgid "enabling them."
+msgstr ""
+
+msgid "giving us your feedback"
+msgstr ""
+
+msgid "got rejected."
+msgstr ""
+
+msgid "has an update."
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "https://support.google.com/chrome/answer/142065"
+msgstr ""
+
+msgid "in another Wantoid site? Check the full list in the"
+msgstr ""
+
+msgid "just expired"
+msgstr ""
+
+msgid "learn more"
+msgstr ""
+
+msgid "more..."
+msgstr ""
+
+msgid "new proposal?"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "points"
+msgstr ""
+
+msgid "price"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "quality score"
+msgstr ""
+
+msgid "received a new comment!"
+msgstr ""
+
+msgid "received a new proposal!"
+msgstr ""
+
+msgid "received a reply by the Proposer!"
+msgstr ""
+
+msgid "request"
+msgstr ""
+
+msgid "requests"
+msgstr ""
+
+msgid "results found."
+msgstr ""
+
+msgid "sandbox"
+msgstr ""
+
+msgid "show:"
+msgstr ""
+
+msgid "sort by:"
+msgstr ""
+
+msgid ""
+"such as creating requests and proposals. But you also receive for special "
+"actions."
+msgstr ""
+
+msgid "such as new proposals or new comments."
+msgstr ""
+
+msgid "summary/full"
+msgstr ""
+
+msgid "that nobody else is trying to misrepresent one of you."
+msgstr ""
+
+msgid "to continue"
+msgstr ""
+
+msgid "to proceed"
+msgstr ""
+
+msgid "total"
+msgstr ""
+
+msgid "trust score"
+msgstr ""
+
+msgid "type to search"
+msgstr ""
+
+msgid "type to search companies"
+msgstr ""
+
+msgid "view my networks"
+msgstr ""
+
+msgid "was CHOSEN! Check the user contact information and "
+msgstr ""
+
+msgid "was chosen!"
+msgstr ""
+
+msgid "was cloned."
+msgstr ""
+
+msgid "was cloned. Do you want to make a"
+msgstr ""
+
+msgid "was finished!"
+msgstr ""
+
+msgid "was finished."
+msgstr ""
+
+msgid "was qualified!"
+msgstr ""
+
+msgid "was rejected!"
+msgstr ""
+
+msgid "was reopened!"
+msgstr ""
+
+msgid "when you create a request, accept a proposal etc."
+msgstr ""
