@@ -1,5 +1,7 @@
 # Translation
 
+This repository contains the phrases used in [Wantoid.com](https://wantoid.com/), and it's the starting point to translate Wantoid.
+
 ## Not a technical user?
 
 Contact us to help and we'll explain in details everything you need. Either find [one of the many translation requests we created](https://wantoid.com/search?query=wantoid) and post a proposal or [talk to us directly](https://wantoid.com/ticket/edit/).
